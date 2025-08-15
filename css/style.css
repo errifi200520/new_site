@@ -8,3 +8,12 @@ h1{
     font-style: italic;
     
 }
+h2{
+    color: green;
+    text-align: left;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    text-decoration: none;
+    font-style: normal;
+}
